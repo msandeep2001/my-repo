@@ -1,4 +1,5 @@
 public class triggerParent{
+    /*testing conflict*/
 /*
 public virtual class CB_Trigger
 {
