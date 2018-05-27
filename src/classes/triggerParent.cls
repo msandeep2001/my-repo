@@ -1,7 +1,11 @@
 public class triggerParent{
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* edited in local*/
 //1
+=======
+/* edited in local-1*/
+>>>>>>> 959d704307b897d909d1038557258f0e9e8e238d
 /*
 public virtual class CB_Trigger
 {
