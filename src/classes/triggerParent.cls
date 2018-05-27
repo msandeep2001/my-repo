@@ -1,4 +1,5 @@
 public class triggerParent{
+/* edited in local*/
 /*
 public virtual class CB_Trigger
 {
